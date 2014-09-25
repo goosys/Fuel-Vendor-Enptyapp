@@ -2,5 +2,5 @@
 
 * Version: 1.0
 
-### Informations
+### Information
 
